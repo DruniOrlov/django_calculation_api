@@ -1,4 +1,4 @@
-# DjangoCalcolationApp
+# DjangoCalculationApp
 
 ## Описание:
 Данное приложение принимает 3 вида запросов
